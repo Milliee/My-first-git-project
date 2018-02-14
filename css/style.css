@@ -1,0 +1,27 @@
+body{
+  font-family: courier new;
+  font-size: 110%;
+  background: #FCE1C4;
+}
+ul{
+    color: #CF4D6F;
+    font-size: 125%;
+    font-family: courier new;
+  }
+a:hover{
+  color: #848586;
+  font-weight: bold;
+}
+.mainclass
+{ width: 60%;
+position: inline-block;
+}
+aside{
+  position: inline;
+  clear: left;
+}
+}
+main {
+  float-right;
+  position: inline
+}
